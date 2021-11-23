@@ -5,9 +5,9 @@
 I'm **iplaycodex** , a front end development engineer from **Xi'an** *:D* , China.
 
 **Contact**
-- ![E-mail][iplaycodex@163.com](mailto:iplaycodex@163.com)
-- ![GitHub][GitHub](https://github.com/iplaycodex)
-- ![E-mail][Persional Page](https://www.iplaycodex.com)
+- ![Email](mailto:iplaycodex@163.com)
+- ![GitHub](https://github.com/iplaycodex)
+- ![Persional Page](https://www.iplaycodex.com)
 
 <br/>
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=iplaycodex&include_all_commits=true" />
@@ -39,7 +39,5 @@ I'm **iplaycodex** , a front end development engineer from **Xi'an** *:D* , Chin
 <a href="https://archiveprogram.github.com/">
     <img alt="Arctic Code Vault Contributor" width="128" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png">
 </a>
-
-# Talk is cheap. Show me the code. *<sup>[Linus Torvalds - 2000](https://lkml.org/lkml/2000/8/25/132)</sup>*
 
 ![profile](https://github-profile-trophy.vercel.app/?username=iplaycodex&theme=flat&column=7&margin-w=10)
