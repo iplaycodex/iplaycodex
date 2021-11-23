@@ -5,9 +5,9 @@
 I'm **iplaycodex** , a front end development engineer from **Xi'an** *:D* , China.
 
 **Contact**
-- ![Email](mailto:iplaycodex@163.com)
-- ![GitHub](https://github.com/iplaycodex)
-- ![Persional Page](https://www.iplaycodex.com)
+- [Email](mailto:iplaycodex@163.com)
+- [GitHub](https://github.com/iplaycodex)
+- [Persional Page](https://www.iplaycodex.com)
 
 <br/>
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=iplaycodex&include_all_commits=true" />
@@ -30,14 +30,5 @@ I'm **iplaycodex** , a front end development engineer from **Xi'an** *:D* , Chin
 <br/>
 <br/>
 <br/>
-
-# As Contributors
-
-<a href="https://www.antdv.com/">
-    <img width="128" src="https://qn.antdv.com/logo.png">
-</a>
-<a href="https://archiveprogram.github.com/">
-    <img alt="Arctic Code Vault Contributor" width="128" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png">
-</a>
 
 ![profile](https://github-profile-trophy.vercel.app/?username=iplaycodex&theme=flat&column=7&margin-w=10)
