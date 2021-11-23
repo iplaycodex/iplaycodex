@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iplaycodex&label=VISITOR)
 
-I'm **iplaycodex** , a front end development engineer from **Xi'an** *:D* , China.
+I'm **iplaycodex** , a front end development engineer from **Shanghai** China
 
 **Contact**
 - [Email](mailto:iplaycodex@163.com)
